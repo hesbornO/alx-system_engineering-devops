@@ -1,1 +1,1 @@
-puts ARGV[0].match(/School/)
+puts gets.chomp.match(/School/)
