@@ -1,1 +1,1 @@
-puts ARGV[0].scan(/h{t|bt}n/).join
+puts ARGV[0].scan(/htn|hbtn/).join
